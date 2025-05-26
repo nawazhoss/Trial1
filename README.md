@@ -6,10 +6,8 @@
 
 <!-- ![License](https://img.shields.io/badge/license-MIT-green) -->
 
+![Alt text](nawaz-photo-01.gif)
 
-<div align="center">
-  <img src="Nawaz-Photo-01.gif" alt="Logo" width="200">
-</div>
 
 | Feature | Status |
 |---------|--------|
