@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><img src="Nawaz-Photo-01.GIF" alt="Alt text" width="150"></td>
-    <td><h3>analytics & insight ... discovering meaning from data</h3></td>
+    <td><h2>analytics & insight ... discovering meaning from data</h2></td>
   </tr>
 </table>
 
